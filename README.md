@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>🌱 I’m currently learning<br>
-![GitHub Repo stars](https://img.shields.io/github/stars/MR-UCLML/MR-UCLML)
+
 
 
 ## 🌐 Socials:
